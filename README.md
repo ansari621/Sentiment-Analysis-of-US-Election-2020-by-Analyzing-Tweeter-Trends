@@ -76,11 +76,8 @@ Using TextBlob:
 | Biden     | 36.43        | 46.83        | 16.73         |
 
 ## 📚 References
-
-- [GeeksforGeeks Project Article](https://www.geeksforgeeks.org/nlp/nlp-sentiment-analysis-for-us-election/)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/discussion?sort=hotness)
 - [Kaggle Notebook](https://www.kaggle.com/code/mdusmanansari/sentiment-analysis-of-us-election-2020/edit)
-- [Colab Notebook](https://www.kaggle.com/code/mdusmanansari/sentiment-analysis-of-us-election-2020/edit)
 
 ## 👨‍💻 Author
 
